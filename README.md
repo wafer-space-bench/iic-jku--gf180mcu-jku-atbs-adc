@@ -12,7 +12,7 @@ Part of the [wafer.space GF180 benchmark](https://wafer-space-bench.github.io): 
 
 | Org | Run | Slot | Project | Size | Commit | Tag / branch |
 |---|---|---|---|---|---|---|
-| wafer.space | [ws-run1](https://wafer.space/ws-run1/) | JKU2 | gf180mcu-jku-atbs-adc | 1x0p5 | `2fae3a6c0ffd` | [`wafer.space/ws-run1/JKU2`](https://github.com/wafer-space-bench/iic-jku--gf180mcu-jku-atbs-adc/tree/tapeout/wafer.space/ws-run1/JKU2) |
+| wafer.space | [ws-run1](https://wafer.space/ws-run1/) | JKU2 | gf180mcu-jku-atbs-adc | 1x0p5 | `3ea596a09e9c` | [`wafer.space/ws-run1/JKU2`](https://github.com/wafer-space-bench/iic-jku--gf180mcu-jku-atbs-adc/tree/tapeout/wafer.space/ws-run1/JKU2) |
 
 ## Branches
 

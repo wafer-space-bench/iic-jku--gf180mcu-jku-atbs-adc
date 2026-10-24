@@ -12,12 +12,12 @@ tapeouts:
   project: gf180mcu-jku-atbs-adc
   size: 1x0p5
   kind: digital
-  commit: 2fae3a6c0ffd
+  commit: 3ea596a09e9c
   commit_source: design_ref head recorded by the ws-run1/2 audit
   tag: wafer.space/ws-run1/JKU2
   branch: tapeout/wafer.space/ws-run1/JKU2
   page: https://wafer.space/ws-run1/
-generated: '2026-10-17T23:50:33Z'
+generated: '2026-10-24T08:10:32Z'
 tooling: https://github.com/wafer-space/wafer.space-bench
 index: https://wafer-space-bench.github.io
 branches:
